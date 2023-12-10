@@ -14,7 +14,7 @@ prompt = """"List the interesting words from the text from user_input
     - "Part of Speech" - part of sppech of each word
     - "Translation" - translate each word into Thai
     - "Pronunciation" - IPA of each word in English 
-    - "Synonyms" - give at least 3 synonyms in English related to each interesting word
+    - "Synonyms" - give at least 3 synonyms in English related to each interesting word and type is string
     - "Example" - the example of using each interesting word"""    
 
 
